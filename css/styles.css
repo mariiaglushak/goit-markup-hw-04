@@ -101,6 +101,9 @@ img{
     margin-right: auto;
 }
 .main{
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     background-color: #2F303A;
     content: "";
