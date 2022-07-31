@@ -321,7 +321,7 @@ button{
     height: 404px;
 }
 .portfolio-container-title{
-    padding: 20px 24px;
+    padding: 20px 0 20px 24px;
     border: 1px solid #EEEEEE;
     border-top: 0;
 }
